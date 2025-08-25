@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.011 - set child above 10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd88b946-ae55-434f-a3f2-65e706dfaaf6</testCaseGuid>
+</TestCaseEntity>

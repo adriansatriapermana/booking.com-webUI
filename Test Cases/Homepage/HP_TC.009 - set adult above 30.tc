@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.009 - set adult above 30</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9b307cb-a81f-4242-8d49-a3d973eace6e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.012 - Set room below 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>681bd034-d52a-4887-89ef-19a9fe161a35</testCaseGuid>
+</TestCaseEntity>

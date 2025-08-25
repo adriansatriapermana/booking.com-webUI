@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.007 - set calendar date invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40b45798-3694-4258-953f-44d9f70e1112</testCaseGuid>
+</TestCaseEntity>

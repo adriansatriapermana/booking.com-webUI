@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.005 - Open calendar and verify element visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc13c70b-a1c2-4feb-9f9f-d32c2f2f2573</testCaseGuid>
+</TestCaseEntity>

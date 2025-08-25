@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.001 - Verify homepage loads and URL is correct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9149bb6-5e77-4702-910a-d855279081c4</testCaseGuid>
+</TestCaseEntity>

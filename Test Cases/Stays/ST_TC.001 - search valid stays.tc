@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ST_TC.001 - search valid stays</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4bc425e-792e-43b0-87cf-82c4b547d188</testCaseGuid>
+</TestCaseEntity>

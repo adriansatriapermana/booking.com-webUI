@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.002 - Validate site logo is visible and clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab70ce03-d935-47a4-989b-a45533cf0dfd</testCaseGuid>
+</TestCaseEntity>

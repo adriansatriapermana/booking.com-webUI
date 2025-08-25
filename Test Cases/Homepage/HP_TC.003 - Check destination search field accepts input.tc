@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.003 - Check destination search field accepts input</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>665ac020-f52a-4cb7-bcc0-0b9859566912</testCaseGuid>
+</TestCaseEntity>

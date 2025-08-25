@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG_TC.001 - DDT - input email invalid format and minimum valid format</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a86da61-6f3d-473a-8715-3c36441fe9cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee74e189-2178-4054-bc0d-3a7a6224fc3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc3cb4fc-bd07-4ead-be03-bceee273b121</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee74e189-2178-4054-bc0d-3a7a6224fc3d</id>
+      <masked>true</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc3cb4fc-bd07-4ead-be03-bceee273b121</id>
+      <masked>true</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SN_TC.001 - DDT - input email invalid format and minimum valid format</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99e8abf0-7a96-4361-9353-a23126373a9a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18490a60-a663-46c1-ac54-a23c3a1d489e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e266e9f-06f1-42c4-b214-213eb8023e33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18490a60-a663-46c1-ac54-a23c3a1d489e</id>
+      <masked>true</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e266e9f-06f1-42c4-b214-213eb8023e33</id>
+      <masked>true</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

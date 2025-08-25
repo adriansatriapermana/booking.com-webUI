@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_TC.004 - Input destination, and click suggestion position 3rd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5f88584-e38f-46f6-b235-bdcd4a2131a1</testCaseGuid>
+</TestCaseEntity>
